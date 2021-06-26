@@ -44,7 +44,7 @@
 </a>
 </p>
 
-<h3>Welcome to কলকাতা!<img src="https://img.icons8.com/bubbles/50/000000/kolkata.png"/>" width="13"/> The City of Joy!</h3>
+<h3>Welcome to কলকাতা!<img src="https://img.icons8.com/bubbles/50/000000/kolkata.png" width="13"/> The City of Joy!</h3>
 <p><img width="200" src="{{img1}}" /> <img width="200" src="{{img2}}" /> <img width="200" src="{{img3}}" /></p>
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/thisiskolkata/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @thisiskolkata!</a><br/>Currently, the weather is: <b> {{city_temperature}}°C, <i>{{city_weather}}</i></b></br>Today, the sun rises at <b>{{sun_rise}}</b> and sets at <b>{{sun_set}}</b>.</p>
 <h3>Where to find me</h3>
