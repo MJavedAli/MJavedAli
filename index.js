@@ -22,7 +22,13 @@ let DATA = {
 
 let setWeatherInformation = async () => {
 
-  let r = await fetch(`https://openweathermap.org/data/2.5/find?q=KOlkata&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`)
+  await fetch(`https://openweathermap.org/data/2.5/find?q=KOlkata&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`)
+    .then(r => r.json())
+    .then(r => {
+      DATA.city_temperature = Math.round(r.main.temp);
+      DATA.city_weather = r.weather[0].description;
+      DATA.city_weather_icon = r.weather[0].icon;
+    })
   let sun_rise_set = await fetch('https://api.sunrise-sunset.org/json?lat=22.5726&lng=88.3639&formatted=0');
   let rjson = await r.json();
   let rsunriseset = await sun_rise_set.json();
