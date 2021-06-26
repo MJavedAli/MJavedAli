@@ -36,7 +36,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="Docker" width="25" height="25" />
 
 <p align="left">
-
   <a href="https://github.com/MJavedAli">
   <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api?username=MJavedAli&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]" />
 </a>
@@ -44,3 +43,15 @@
   <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJavedAli&layout=compact&text_color=daf7dc&bg_color=151515" />
 </a>
 </p>
+
+<h3>Welcome to কলকাতা!<img src="<img src="https://img.icons8.com/bubbles/50/000000/kolkata.png"/>" width="13"/> The City of Joy!</h3>
+<p><img width="200" src="{{img1}}" /> <img width="200" src="{{img2}}" /> <img width="200" src="{{img3}}" /></p>
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/thisiskolkata/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @thisiskolkata!</a><br/>Currently, the weather is: <b> {{city_temperature}}°C, <i>{{city_weather}}</i></b></br>Today, the sun rises at <b>{{sun_rise}}</b> and sets at <b>{{sun_set}}</b>.</p>
+<h3>Where to find me</h3>
+<p><a href="https://github.com/MJavedAli" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/abuzainabx" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/javedalix" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+------------
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: {{refresh_date}}<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center"><img src="https://github.com/MJavedAli/MJavedAli/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/MJavedAli/MJavedAli?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/MJavedAli/MJavedAli?style=flat-square&labelColor=343b41"/></p>
+
