@@ -45,4 +45,4 @@
 </a>
 </p>
 
-
+<br/>Currently, the weather is: <b> 18°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>03:32</b> and sets at <b>22:08</b>.</p>
