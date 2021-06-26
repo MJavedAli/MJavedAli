@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+      {
+          "name": "Launch",
+          "type": "node",
+          "request": "launch",
+          "program": "${file}",
+          "stopOnEntry": true,
+         // "args": ["_proj1/reports","_proj2/reports"],
+          //"args": ["npm run mergeLaunches"],
+          "cwd": "${fileDirname}",
+          "runtimeExecutable": null,
+          "runtimeArgs": [
+              "--nolazy"
+          ],
+          "env": {
+              "NODE_ENV": "development"
+          },
+          "externalConsole": false,
+          "sourceMaps": false,
+          "outDir": null
+      }
+  ]
+  }

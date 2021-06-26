@@ -19,7 +19,7 @@ let DATA = {
   }),
 };
 
-await action();
+action();
 
 async function action() {
   /**
