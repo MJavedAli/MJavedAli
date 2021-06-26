@@ -26,9 +26,9 @@ let setWeatherInformation = async () => {
   let sun_rise_set = await fetch('https://api.sunrise-sunset.org/json?lat=22.5726&lng=88.3639&formatted=0');
   let rjson = await r.json();
   let rsunriseset = await sun_rise_set.json();
-  DATA.city_temperature = Math.round(await (rjson.list[0].main.temp) / 10);
-  DATA.city_weather = await rjson.list[0].weather[0].description;
-  DATA.city_weather_icon = await rjson.list[0].weather[0].icon;
+  DATA.city_temperature = Math.round((rjson.list[0].main.temp) / 10);
+  DATA.city_weather = rjson.list[0].weather[0].description;
+  DATA.city_weather_icon = rjson.list[0].weather[0].icon;
 
   let dtsr = moment(rsunriseset.results.sunrise, 'YYYY/MM/DD HH:mm:ss ZZ').tz('Asia/Kolkata').format('HH:mm');
   let dtss = moment(rsunriseset.results.sunset, 'YYYY/MM/DD HH:mm:ss ZZ').tz('Asia/Kolkata').format('HH:mm');
