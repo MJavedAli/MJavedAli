@@ -25,8 +25,11 @@
   "homepage": "https://github.com/MJavedAli/MJavedAli#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33",
     "mustache": "^4.0.1",
     "node-fetch": "^2.6.1",
-    "puppeteer": "^5.1.0"
+    "puppeteer": "^5.1.0",
   }
 }
