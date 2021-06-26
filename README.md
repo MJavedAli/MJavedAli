@@ -46,7 +46,7 @@
 
 <h3>Welcome to কলকাতা !<img src="https://img.icons8.com/bubbles/50/000000/kolkata.png" width="30"/> The City of Joy!</h3>
 <p><img width="200" src="{{img1}}" /> <img width="200" src="{{img2}}" /> <img width="200" src="{{img3}}" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/thisiskolkata/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @thisiskolkata!</a><br/>Currently, the weather is: <b> {{city_temperature}}°C, <i>{{city_weather}}</i></b></br>Today, the sun rises at <b>{{sun_rise}}</b> and sets at <b>{{sun_set}}</b>.</p>
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/thisiskolkata/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @thisiskolkata!</a><br/>Currently, the weather is: <b>  °C, <i>{{city_weather}}</i></b></br>Today, the sun rises at <b>{{sun_rise}}</b> and sets at <b>{{sun_set}}</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/MJavedAli" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/abuzainabx" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/javedalix" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
