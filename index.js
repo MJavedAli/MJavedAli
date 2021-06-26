@@ -24,9 +24,7 @@ async function setWeatherInformation() {
     `https://openweathermap.org/data/2.5/find?q=KOlkata&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
 
   )
-
-    //r = await r.json();
-    .then(r => r.json())
+    .then((r) => r.json())
     .then(r => {
       DATA.city_temperature = Math.round(r.list[0].main.temp);
       DATA.city_weather = r.list[0].weather[0].description;
