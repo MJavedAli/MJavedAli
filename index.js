@@ -26,9 +26,9 @@ async function setWeatherInformation() {
   )
     .then((r) => r.json())
     .then(r => {
-      DATA.city_temperature = Math.round(r.list[0].main.temp);
-      DATA.city_weather = r.list[0].weather[0].description;
-      DATA.city_weather_icon = r.list[0].weather[0].icon;
+      DATA.city_temperature = Math.round(await r.list[0].main.temp);
+      DATA.city_weather = await r.list[0].weather[0].description;
+      DATA.city_weather_icon = await r.list[0].weather[0].icon;
       // DATA.sun_rise = new Date(r.list[0].sys.sunrise * 1000).toLocaleString('en-GB', {
       //   hour: '2-digit',
       //   minute: '2-digit',
