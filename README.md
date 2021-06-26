@@ -36,8 +36,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="Docker" width="25" height="25" />
 
 <p align="left">
-<h3 align="left">statistics</h3>
-<a href="https://github.com/MJavedAli">
+
+  <a href="https://github.com/MJavedAli">
   <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api?username=MJavedAli&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]" />
 </a>
 <a href="https://github.com/MJavedAli">
