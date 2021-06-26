@@ -1,0 +1,32 @@
+{
+  "name": "MJavedAli",
+  "version": "1.0.0",
+  "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJavedAli/MJavedAli.git"
+  },
+  "keywords": [
+    "readme.md",
+    "github",
+    "actions",
+    "dynamic",
+    "javascript"
+  ],
+  "author": "Javed Ali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MJavedAli/MJavedAli/issues"
+  },
+  "homepage": "https://github.com/MJavedAli/MJavedAli#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mustache": "^4.0.1",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.1.0"
+  }
+}
