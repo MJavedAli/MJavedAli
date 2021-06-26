@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm Javed </h2>
+<h2>Hello 👋, I'm Javed </h2>
 
 <p>I'm currently working as a software engineer at <strong><a href="https://www.softwareag.com/">Software AG</a></strong> </strong> based in 🌁 Bengaluru. I am working on some side projects, learning a couple of new dishes and a father of cute daughter.</p>
 
