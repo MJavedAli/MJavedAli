@@ -26,7 +26,7 @@ async function setWeatherInformation() {
   )
 
     //r = await r.json();
-    .then((r) => r.json())
+    .then(r => r.json())
     .then(r => {
       DATA.city_temperature = Math.round(r.list[0].main.temp);
       DATA.city_weather = r.list[0].weather[0].description;
