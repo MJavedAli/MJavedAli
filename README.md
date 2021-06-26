@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm Javed </h2>
 
-<p>I'm currently a software engineer at <strong><a href="https://www.softwareag.com/">Software AG</a></strong> </strong> based in 🌁 Bengaluru. I am working on some side projects, learning a couple of new dishes and a father of cute daughter.</p>
+<p>I'm currently working as a software engineer at <strong><a href="https://www.softwareag.com/">Software AG</a></strong> </strong> based in 🌁 Bengaluru. I am working on some side projects, learning a couple of new dishes and a father of cute daughter.</p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me:
 
@@ -44,5 +44,3 @@
   <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJavedAli&layout=compact&text_color=daf7dc&bg_color=151515" />
 </a>
 </p>
-
-<br/>Currently, the weather is: <b> 18°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>03:32</b> and sets at <b>22:08</b>.</p>
