@@ -37,7 +37,6 @@ let setWeatherInformation = async () => {
       DATA.sun_rise = dtsr + ' AM';
       DATA.sun_set = dtss + ' PM';
     })
-
   // let rsunriseset = await sun_rise_set.json();
 
   // let dtsr = moment(rsunriseset.results.sunrise, 'YYYY/MM/DD HH:mm:ss ZZ').tz('Asia/Kolkata').format('HH:mm');
