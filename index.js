@@ -29,13 +29,27 @@ let setWeatherInformation = async () => {
       DATA.city_weather = r.list[0].weather[0].description;
       DATA.city_weather_icon = r.list[0].weather[0].icon;
     })
-  let sun_rise_set = await fetch('https://api.sunrise-sunset.org/json?lat=22.5726&lng=88.3639&formatted=0');
-  let rsunriseset = await sun_rise_set.json();
+  await fetch('https://api.sunrise-sunset.org/json?lat=22.5726&lng=88.3639&formatted=0')
+    .then(r => r.json())
+    .then(r => {
+      let dtsr = moment(r.results.sunrise, 'YYYY/MM/DD HH:mm:ss ZZ').tz('Asia/Kolkata').format('HH:mm');
+      let dtss = moment(r.results.sunset, 'YYYY/MM/DD HH:mm:ss ZZ').tz('Asia/Kolkata').format('HH:mm');
+      DATA.sun_rise = dtsr + ' AM';
+      DATA.sun_set = dtss + ' PM';
+    })
+  // let rsunriseset = await sun_rise_set.json();
 
-  let dtsr = moment(rsunriseset.results.sunrise, 'YYYY/MM/DD HH:mm:ss ZZ').tz('Asia/Kolkata').format('HH:mm');
-  let dtss = moment(rsunriseset.results.sunset, 'YYYY/MM/DD HH:mm:ss ZZ').tz('Asia/Kolkata').format('HH:mm');
-  DATA.sun_rise = dtsr + ' AM';
-  DATA.sun_set = dtss + ' PM';
+  // let dtsr = moment(rsunriseset.results.sunrise, 'YYYY/MM/DD HH:mm:ss ZZ').tz('Asia/Kolkata').format('HH:mm');
+  // let dtss = moment(rsunriseset.results.sunset, 'YYYY/MM/DD HH:mm:ss ZZ').tz('Asia/Kolkata').format('HH:mm');
+  // DATA.sun_rise = dtsr + ' AM';
+  // DATA.sun_set = dtss + ' PM';
+  // let sun_rise_set = await fetch('https://api.sunrise-sunset.org/json?lat=22.5726&lng=88.3639&formatted=0');
+  // let rsunriseset = await sun_rise_set.json();
+
+  // let dtsr = moment(rsunriseset.results.sunrise, 'YYYY/MM/DD HH:mm:ss ZZ').tz('Asia/Kolkata').format('HH:mm');
+  // let dtss = moment(rsunriseset.results.sunset, 'YYYY/MM/DD HH:mm:ss ZZ').tz('Asia/Kolkata').format('HH:mm');
+  // DATA.sun_rise = dtsr + ' AM';
+  // DATA.sun_set = dtss + ' PM';
 
 }
 
