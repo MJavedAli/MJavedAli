@@ -22,7 +22,6 @@ async function setWeatherInformation() {
 
   await fetch(
     `https://openweathermap.org/data/2.5/find?q=KOlkata&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
-    // `https://openweathermap.org/data/2.5/find?q=KOlkata&appid=439d4b804bc8187953eb36d2a8c26a02&units=metric`
 
   )
     .then(r => r.json())
