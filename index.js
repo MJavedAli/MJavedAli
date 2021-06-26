@@ -24,21 +24,23 @@ async function setWeatherInformation() {
     `https://openweathermap.org/data/2.5/find?q=KOlkata&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
 
   )
-    .then(r => r.json())
+
+    //r = await r.json();
+    .then((r) => r.json())
     .then(r => {
-      DATA.city_temperature = Math.round(r.main.temp);
-      DATA.city_weather = r.weather[0].description;
-      DATA.city_weather_icon = r.weather[0].icon;
-      DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-GB', {
-        hour: '2-digit',
-        minute: '2-digit',
-        timeZone: 'Asia/Kolkata',
-      });
-      DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-GB', {
-        hour: '2-digit',
-        minute: '2-digit',
-        timeZone: 'Asia/Kolkata',
-      });
+      DATA.city_temperature = Math.round(r.list[0].main.temp);
+      DATA.city_weather = r.list[0].weather[0].description;
+      DATA.city_weather_icon = r.list[0].weather[0].icon;
+      // DATA.sun_rise = new Date(r.list[0].sys.sunrise * 1000).toLocaleString('en-GB', {
+      //   hour: '2-digit',
+      //   minute: '2-digit',
+      //   timeZone: 'Asia/Kolkata',
+      // });
+      // DATA.sun_set = new Date(r.list[0].sys.sunset * 1000).toLocaleString('en-GB', {
+      //   hour: '2-digit',
+      //   minute: '2-digit',
+      //   timeZone: 'Asia/Kolkata',
+      // });
     });
 }
 
