@@ -32,25 +32,11 @@ let setWeatherInformation = async () => {
   await fetch('https://api.sunrise-sunset.org/json?lat=22.5726&lng=88.3639&formatted=0')
     .then(r => r.json())
     .then(r => {
-      let dtsr = moment(r.results.sunrise, 'YYYY/MM/DD HH:mm:ss ZZ').tz('Asia/Kolkata').format('HH:mm');
-      let dtss = moment(r.results.sunset, 'YYYY/MM/DD HH:mm:ss ZZ').tz('Asia/Kolkata').format('HH:mm');
+      let dtsr = moment(r.results.sunrise, 'YYYY/MM/DD HH:mm:ss ZZ').tz('Asia/Kolkata').format('hh:mm');
+      let dtss = moment(r.results.sunset, 'YYYY/MM/DD HH:mm:ss ZZ').tz('Asia/Kolkata').format('hh:mm');
       DATA.sun_rise = dtsr + ' AM';
       DATA.sun_set = dtss + ' PM';
     })
-  // let rsunriseset = await sun_rise_set.json();
-
-  // let dtsr = moment(rsunriseset.results.sunrise, 'YYYY/MM/DD HH:mm:ss ZZ').tz('Asia/Kolkata').format('HH:mm');
-  // let dtss = moment(rsunriseset.results.sunset, 'YYYY/MM/DD HH:mm:ss ZZ').tz('Asia/Kolkata').format('HH:mm');
-  // DATA.sun_rise = dtsr + ' AM';
-  // DATA.sun_set = dtss + ' PM';
-  // let sun_rise_set = await fetch('https://api.sunrise-sunset.org/json?lat=22.5726&lng=88.3639&formatted=0');
-  // let rsunriseset = await sun_rise_set.json();
-
-  // let dtsr = moment(rsunriseset.results.sunrise, 'YYYY/MM/DD HH:mm:ss ZZ').tz('Asia/Kolkata').format('HH:mm');
-  // let dtss = moment(rsunriseset.results.sunset, 'YYYY/MM/DD HH:mm:ss ZZ').tz('Asia/Kolkata').format('HH:mm');
-  // DATA.sun_rise = dtsr + ' AM';
-  // DATA.sun_set = dtss + ' PM';
-
 }
 
 let setInstagramPosts = async () => {
