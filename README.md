@@ -37,7 +37,7 @@
 
 <p align="left">
   <a href="https://github.com/MJavedAli">
-  <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api?username=MJavedAli&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&" />
+  <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api?username=MJavedAli&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]" />
 </a>
 <a href="https://github.com/MJavedAli">
   <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJavedAli&layout=compact&text_color=daf7dc&bg_color=151515" />
@@ -52,5 +52,5 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 27 June, 06:36 GMT+5:30<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 27 June, 08:20 GMT+5:30<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/MJavedAli/MJavedAli/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/MJavedAli/MJavedAli?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/MJavedAli/MJavedAli?style=flat-square&labelColor=343b41"/></p>
