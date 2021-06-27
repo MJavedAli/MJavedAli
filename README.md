@@ -40,7 +40,7 @@
   <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api?username=MJavedAli&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" />
 </a>
 <a href="https://github.com/MJavedAli">
-  <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJavedAli&layout=compact&text_color=daf7dc&bg_color=151515" />
+  <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJavedAli&layout=compact&text_color=daf7dc&bg_color=151515"/>
 </a>
 </p>
 
