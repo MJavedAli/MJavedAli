@@ -4,9 +4,9 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me:
 
-- 🔭 I’m currently working on design & development for a multiline release CI/CD Dasboard
-- 🌱 I’m currently learning Django
-- 💬 Ask me about socio-cultural history, test automation ,pipeline orchestration, Islam,  psychology & emotional intelligence
+- 🔭 I’m currently working on Test Report Analytics using ML
+- 🌱 I’m currently learning Computer Vision integration in Test Automation
+- 💬 Ask me about socio-cultural history, test automation , startups , psychology & emotional intelligence
 - 📫 How to reach me: imjavedali@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Often read MBBS books.
@@ -52,5 +52,5 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 19 May, 11:59 GMT+5:30<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 19 May, 14:52 GMT+5:30<br /></p>
 <p align="center"><img src="https://github.com/MJavedAli/MJavedAli/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/MJavedAli/MJavedAli?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/MJavedAli/MJavedAli?style=flat-square&labelColor=343b41"/></p>
