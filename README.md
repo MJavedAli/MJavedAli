@@ -4,9 +4,9 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me:
 
-- 🔭 I’m currently working on Test Report Analytics using ML
-- 🌱 I’m currently learning Computer Vision integration in Test Automation
-- 💬 Ask me about socio-cultural history, test automation , startups , psychology & emotional intelligence
+- 🔭 I’m currently working on design & development for a multiline release CI/CD Dasboard
+- 🌱 I’m currently learning Django
+- 💬 Ask me about socio-cultural history, test automation ,pipeline orchestration, Islam,  psychology & emotional intelligence
 - 📫 How to reach me: imjavedali@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Often read MBBS books.
