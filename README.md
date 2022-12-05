@@ -4,12 +4,12 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me:
 
-- 🔭 I’m currently working on Test Report Analytics using ML
-- 🌱 I’m currently learning Computer Vision integration in Test Automation
-- 💬 Ask me about socio-cultural history, test automation , startups , psychology & emotional intelligence
-- 📫 How to reach me: imjavedali@gmail.com
+- 🔭 I’m currently working on optimising the CI-Pipeline Orchestrator
+- 🌱 I’m currently learning on applying ML and Data Anaytics on Release data
+- 💬 Ask me about space , cloud technologies , quantum physics or comparative theology
+- 📫 How to reach me: info@javedali.tech
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Often read MBBS books.
+- ⚡ Fun fact: I married programming secretly 😄 
 
 <h3>🚀 My weapons </h3>
 <p align="left">
@@ -52,5 +52,5 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 5 December, 08:50 GMT+5:30<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 5 December, 09:23 GMT+5:30<br /></p>
 <p align="center"><img src="https://github.com/MJavedAli/MJavedAli/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/MJavedAli/MJavedAli?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/MJavedAli/MJavedAli?style=flat-square&labelColor=343b41"/></p>
