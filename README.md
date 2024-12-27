@@ -1,14 +1,13 @@
 <h2>Hey 👋, I'm Javed </h2>
 
-<p>I'm currently working as a software engineer at <strong><a href="https://www.softwareag.com/">Software AG</a></strong> </strong> based in 🌁 Bengaluru. I am working on some side projects, learning a couple of new dishes and a father of cute daughter.</p>
+<p>I'm currently working as a principal software engineer at <strong><a href="https://www.oracle.com/">ORACLE</a></strong> </strong> based in 🌁 Bengaluru. I am working on some side projects, learning a couple of new dishes and a father of cute daughter.</p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">About Me:
 
-- 🔭 I’m currently working on optimising the CI-Pipeline Orchestrator
-- 🌱 I’m currently learning on applying ML and Data Anaytics on Release data
+- 🔭 I’m currently building on a fault-tolerant microservices architecture on OCI which handles 1M+ concurrent users.  
+- 🌱 I’m currently learning on applying ML-based anomaly detection on Release Data
 - 💬 Ask me about space , cloud technologies , quantum physics or comparative theology
 - 📫 How to reach me: info@javedali.tech
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am cunning 😄 
 
 <h3>🚀 My weapons </h3>
@@ -45,12 +44,11 @@
 </p>
 
 <h3>Welcome to কলকাতা! <img src="https://img.icons8.com/bubbles/50/000000/kolkata.png"/> The City of Joy!</h3>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/kolkatasutra/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @kolkatasutra!</a><br/>Currently, the weather is: <b> 29°C, <i>haze</i></b></br>Today, the sun rises at <b>06:13 AM</b> and sets at <b>05:01 PM</b>.</p>
+<br/>Currently, the weather is: <b> 29°C, <i>haze</i></b></br>Today, the sun rises at <b>06:13 AM</b> and sets at <b>05:01 PM</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/MJavedAli" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/abuzainabx" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/javedalix" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 27 December, 20:50 GMT+5:30<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 27 December, 23:35 GMT+5:30<br /></p>
 <p align="center"><img src="https://github.com/MJavedAli/MJavedAli/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/MJavedAli/MJavedAli?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/MJavedAli/MJavedAli?style=flat-square&labelColor=343b41"/></p>
