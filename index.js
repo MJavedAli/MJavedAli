@@ -6,7 +6,6 @@ const moment = require('moment-timezone');
 const puppeteerService = require('./services/puppeteer.service');
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
-
 let DATA = {
   refresh_date: new Date().toLocaleDateString('en-GB', {
     weekday: 'long',
